@@ -1,5 +1,5 @@
 ---
-title: "Journal Createive Writing"
+title: "Journal Creative Writing"
 output: 
  rmdformats::readthedown:
     highlight: kate
