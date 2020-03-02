@@ -1,0 +1,85 @@
+---
+title: "The Daulter Dilemma"
+output: 
+ rmdformats::readthedown:
+    highlight: kate
+html_document:
+knit: (function(input_file, encoding) {
+  out_dir <- 'docs';
+  rmarkdown::render(input_file,
+ encoding=encoding,
+ output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+
+  
+
+---
+# Chapter One
+
+I hop out of the shower, soap dripping down the hairs behind my leg as I almost slip on my old bath mat overlayed with a frog pattern. I grab the stained towel resting atop my toilet, quickly drying my hair as the podcast discussing Plato’s Symposium is interrupted by the piercing sound of my alarm reminding me I am 15 minutes behind schedule. Alarm singing, I squint my eyes as if I can look past the fog lying between my mirror and the Daulter the world will see, trying to fix my hair. I give up, grab my phone, and throw the towel back on the toilet, missing completely, for tomorrow’s use.
+
+ I run out the bathroom door to my dresser, letting out a mist that dissipates immediately. I jump into a pair of underwear, slide on some mismatched dress socks absorbing the soapy water between my toes, put deodorant on, struggle putting on my tight jeans through my undried legs, force on my brown dress shoes without the time to tie them, and button down my short-sleeve dress shirt patterned with small forget-me-nots contrasted on black. I grab my black backpack that is thrown on the floor with all of my other clothes, lying between my copy of Nietzsche’s “Twilight of the Idols” and Kierkegaard’s “Fear and Trembling”. I stop for a second, staring at Isaac’s eyes screaming for help through the “Penguin Classics” cover art displaying Abraham’s hand holding his throat to the floor, while he is pressing a rusted knife against his young son’s fair skin with the other. I pause for a second, literally. I quickly realize it is the muffled noise of my phone alarm in my pocket screaming, not Isaac, reminding me I don’t have time to shit around and I grab the book with me. 
+
+I sprint to the other side of my poorly lit studio apartment, grabbing everything I can on the way; I pass the kitchenette and walk through the door as I am blinded by the San Diego sun. I cover my face with my hands from the Sun’s truthful presence, hiding just behind its shadow so I can see; I run down the stairs, pass the un-pressure washed concrete floor, and dive into my faded-black 2012 Toyota Corolla’s driver seat. I turn on the car, turn off the cursed chorus of a fucking phone alarm, and drive out of my complex toward the class I have at 9:30 am in Late modern Philosophy. Startling me, my phone syncs with the bluetooth stereo in my car resuming the podcast on the Symposium. The soft, yet crass, tone of the podcaster’s voice emanates through my car resuming his description of Aristophanes account of love that is different from that of Phaedrus, Pausanias, and Eryximachus. 
+
+I place my arm on the passenger seat while looking back, and I reverse the car out of my parking spot to then propel forward like a torpedo. I roll down the windows and briefly look outside at the blue sky which is ever so slightly sprinkled with cotton-candy clouds. Distracted by the clouds, I finally refocus and tune back into the podcast.  
+
+>“Aristophanes’ account of love in the symposium is fitting for his role as a comedian, some even argue it is to be interpreted as a joke! He proposed humans existed with two arms and two legs, toiling and rolling around the earth with power that could even challenge those of gods! Zeus grew jealous and smote humans in half with his righteous bolts, separating them from their original soul mate. For this reason human’s always feel a gripe of loneliness, and love is finally being able to reunite with your lost half. That is why they say!—when you lock eyes with your true love, you can’t help but feel a pang of familiarity and nostalgia.
+
+I drop my hand out the window while racing down I15 to UCSD. I turn toward my left seeing a glimpse of the glistening california coastline in the distance. “Huh, so i'm just here to look for my other half? Who is to say you would ever meet them? What are the chances?” At the thought of that the light of the sun reflects from a bright red volkswagen speeding up behind me, into my mirror, then to my eyes. Slightly blinded, I bring my hand from outside to cover my eyes. I open them and see something in the sky. I see two dense clouds, nearly touching but not quite; and a stream of celadon-blue sky between them. It almost looks like Zeus’ lighting bolt, but I notice it is a little too water-like to come from his sky. Almost looking like a river of some sort. I rub my eyes, and the pain of the glare is gone. I look back and see the clouds part quickly as the ocean breeze pushes them astray. I lock my attention back on the road watching my eyes melt with the asphalt as I drive; and I continue to listen to the podcast till I get to school
+
+<center>*</center>
+
+Me rapidly turning then breaking into this parking spot woke me from my trance. I hear a fleeting scream: “That was my fucking spot! I turn around seeing a guy driving away with a porcelain-white Tesla, wearing what looks like some designer black shades. I look on the passenger seat, and see the print out of my class schedule sticking out of my blue 99-cent notebook I bought at Wal-Mart. I grab the notebook, pulling the schedule out; I grab my bag, putting it over my shoulders. And I step out of my car. I almost forgot how bright the sun is today but I quickly remembered—speaking of remembering! I put my hand down my car’s side door knowing just where to grab my drakkar noir without getting the dirty napkins I left there a couple of days ago. I spray some on, throw it back in the car, and pace across the parking lot to get to—I check my schedule—Pepper Canyon Hall. I almost walk into a blue honda civic impatiently sitting there with their turn signals where I quickly evade it and haste over to the crosswalk. The traffic guard raises his hand gesturing us to cross, where I gently jog down the road, through the bushes and grass, and in front of the Pepper Canyon Hall. I walk through the two automatic doors, and feel the chill of the air-conditioned air pierce right through my fore-head sweat. I part my hair back while looking for room—I check my schedule—119; I quickly find it and check my watch: 9:24. Im six-minutes early. 
+
+I go to reach for the door and feel a strong female presence right when I touch the cold brass door hinge. I open the door, instinctively exclaiming “After you!”. She had, serially, given me a quick glance, then walked through the door saying “thanks”. Like the eyes of a gorgeous greek gorgon, I found them petrifying me. brown at first glance; but upon further inspection painted with streaks of silver and splashes of olive.  I became aware of how dry my throat was, and froze right before uttering “your welcome—”. She was already half-way toward the front row of seats. She walked with a demanding presence: silent yet cunning. She had curly black hair, unkept; soft vanilla exterior, abyssal interior. She was wearing hot-pink rain boots, baggy faded-blue jeans, a large black men’s T-shirt—tucked in—with what looks like an unlit fire-fly on black, and a sterling silver necklace with an onyx pendant. I walk on over, thinking if I should sit next to her, but at the risk of not being weird I sit one seat over. 
+
+I pull out my blue notebook, my copy of fear and trembling, and a 20mg Adderall IR that I take with no water. She glares at me, about to open her mouth to speak. My heart skips a beat. Does she read Kierkegaard? She seems like the type; I am aroused by the thought. In a monotone voice, she says “Hey, saw you pop an addie, wanna pass one over”? I feel an unprecedented force. It felt like the part of my brain responsible for my autonomy, which I didn’t even think existed, was immobilized by something. My hand, with a consciousness of one that wasn't it’s nor mine, reaches into my bag grabbing an adderall pill. I hand it over and place it on her hand. Her hand is softer than any I have touched. But it injected and ancient coldness through my body leaving a lingering feeling that I can’t shake off. She smiles at me, turns toward the front, and drinks some water to “pop the addie”. Mid-glance, some guy aggressively sits between us in the empty seat. He looks at me, giving me a contempt smirk, and says “Sorry did I interrupt”? I look at him in the face, trying to remember where he is from. Then I realize: Royal-Purple Gucci sunglasses in doors—it’s white-tesla guy from earlier. 
+
+People start to rush in and fill the seats of the classroom. I see a dude walking down my row to sit next to me: He’s about five-seven, skin embodying the essence of hawaiin-brown palms, and the demarcation between his obsidian-black head hair and facial hair is to be unseen. He is wearing light-gray sweatpants, dirty checkered vans, and a tank top with a psychedelic explosion stemming from a mario mushroom. His eyes lock with mine, and it feels like he presents his soul through his eyes. He takes a seat and brings his hand from his pocket toward me for a handshake, “the name’s Kai, nice to meet you bro!” I shake his hand, “Hey! I’m Daulter”—before I can finish, he reaches awkwardly across my note-book and grabs the Kiekegaard. “Woah dude, you read Kiekegaard? Did you know he had, like, a hard time balancing his girl and philosophizing? Makes sense if you ask me, how else could his writing sound like he is always in despair. Sometimes, man, you just gotta remember to enjoy what’s in front of you. That’s all that's really there ya know?”. He pauses for a second, blankly staring at the board. He reaches into his pocket, pulling out a golden vape-pen gesturing his face toward it with his eyes on me, implying if I would like a hit or something. I grow a little nervous and shake my hand gesturing I am not interested while still trying to thank him for the offer. 
+
+The professor walks in, carrying nothing with him other than an expo marker. He is wearing a tight black shirt, tight navy-blue jeans, and black pumas with streaks of gold. His hair has a salt-pepper look that compliments his sterling silver glasses. He writes on the board:
+
+****
+<center>**George Berkeley (1685-1753)**</center>
+<center>**A Treatise Concerning the Principles of Human Knowledge, 1710**</center>
+<center>**Three Dialogues between Hylas and Philonous, 1713**</center>
+****
+      
+He turns toward the class, head slightly angled toward the ceiling as if he is looking up but not quite. Everyone in the classroom is silent, slightly confused. No introduction, no syllabus. He closes the expo marker pointing it on his chin:
+
+> Berkeley is a little difficult for me—or anyone with a brain for that matter!— to take seriously. His main thesis? Matter is non-existent. The world is nothing but immaterial, whatever that means. He articulated this argument in his rather loquacious work: The Treatise Concerning the Principles of Human Knowledge. Scholars did not receive his work well. In response, just like a underaged college student who just asked someone why they should get them liquor after they said no the first time, he reiterated his exact argument but through a dialogue this time. You all know where this is going! So there are two interlocutors: Philonous (or “lover of mind”), and Hylus (or “Matter”). The dialogue is Philonous, the great berkeleian hero! making Hylus, the embodiment of all things atheist, skeptic, and dare I saw it—Material! Cower in a corner agreeing with everything Berkeley—I meant philonous!—has to say.
+
+My eyes follow the professor as he paces across the front of the room and back, speaking with much fervour and excitement. I open my notebook, checking my pockets where I usually keep all of my pens, and find nothing but ink stains. I panic a bit, turning toward tesla guy—distracted on his phone; he has a dark-ruby fountain pen laying on his leather notebook, and an open 50ml bottle of ink labeled “Waterman - Paris”. I can’t ask him for a pen. I turn toward Kai. He is looking right at the professor, with a kind of wonder a child looks with when looking at a new toy; nothing lying on his desk. I whisper: “Hey Kai, do you have a pen I can borrow?” He looks toward me and smiles, “of course man!” he says a little too loudly. He reaches into his bag pulling out what seems like his only pen: a dark-green pilot G2 pen. He hands it over saying “I don’t need it anyway, your mind is like a sponge. it can absorb everything you need it to”. I open my notebook, and start to take down notes while listening to the professor talk.
+
+
+> Philonous provides a simple argument against matter which goes as follows:
+>
+>  1. We perceive ordinary objects (houses, mountains, etc.)
+>  2. We perceive only ideas. \
+>  ____________________________________________________________
+> 
+>  3. Ordinary objects are ideas.
+>
+> Your intuition may be to attack premise two. However, this is complicated by “The Explanatory Gap”. Just because we perceive a sensible object like an ice-cream sandwich when you got the munchies, that doesn’t necessarily mean you have direct access to the ice-cream sandwich, proper. The ice-cream sandwich is mediated by our subjective perception of it: feeling the chocolate stick to your fingertips, seeing the cold vapor emanate from it when upon it leaving the freezer, tasting the contrasting flavors of sweet vanilla with dark chocolate. Thus, we can’t say it is anything more than just an “idea”. Consciousness, whether you call it physical or immaterial, is the greatest barrier from the actual world; and Berekely takes advantage of this saying perhaps what lies beyond this “gap” was never something physical in the first place. Maybe the ice-cream sandwich, proper, was always just an “idea”. 
+
+
+
+
+
+
+```{r setup, echo=FALSE, cache=FALSE}
+library(knitr)
+library(rmdformats)
+
+## Global options
+options(max.print="25")
+opts_chunk$set(echo=FALSE,
+	             cache=TRUE,
+               prompt=FALSE,
+               tidy=TRUE,
+               comment=NA,
+               message=FALSE,
+               warning=FALSE)
+opts_knit$set(width=25)
+```
+
